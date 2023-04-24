@@ -7,6 +7,9 @@ sharepoint_config = {
     "secId" : "a5Q8Q~mW82VazxJegOM6zM1GMnS5J_4ccx70CcaC"
 
 }
+### ------------------------------------------------
+## This function will generate token for Sharepoint
+###-------------------------------------------------
 
 def getToken(sharepoint_config):
     access_token = ""
